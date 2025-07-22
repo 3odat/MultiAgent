@@ -51,6 +51,8 @@ USER ➜ please count people and cars
 
 ```
 #### Result of collaboration between drone 1 and drone 2 to accomplish a mission.
+
+Mission: Count people and cars
 ![MultiAgent Collaboration](images/1.png)  
 
 
