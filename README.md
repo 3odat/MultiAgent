@@ -27,6 +27,40 @@ This project demonstrates a **multi-agent autonomous drone system** where two dr
      │  + LLM + Tools │                    │  + LLM + Tools │
      └───────┬────────┘                    └────────┬──────┘
              │                                       │
- ┌───────────▼────────────┐               ┌─────────▼────────────┐
+ ┌───────────▼────────────┐               ┌─────────▼──────────────┐
  │ WebSocket Client/Server│◄─────────────►│ WebSocket Client/Server│
  └────────────────────────┘               └────────────────────────┘
+
+
+---
+
+## 🚀 How to Run
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+python talk2.py
+
+
+
+USER ➜ please count people and cars
+
+🤖 Drone 1 AI:
+- Took off and counted 4 cars.
+- Delegated people-counting to Drone 2.
+
+🤖 Drone 2 AI:
+- Connected, armed, took off.
+- Counted 7 people and sent result to Drone 1.
+
+📥 Drone 1 received: [Drone 2] Detected 7 people.
+
+✅ Final Answer: There are 7 people and 4 cars.
+
+
+.
+├── talk1.py           # Drone 1 agent (ReAct planner + WebSocket)
+├── talk2.py           # Drone 2 agent (ReAct planner + WebSocket)
+├── requirements.txt   # Python dependencies
+└── README.md          # Project documentation
