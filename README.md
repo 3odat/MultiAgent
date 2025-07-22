@@ -105,8 +105,13 @@ Drone 2:
 └── README.md        # Project description
 ```
 
+## 📖 Technologies Used
+- LangGraph
+- MAVSDK
+- OpenAI GPT‑4o
+- FastAPI
+- WebSockets
 
 
-
-
-
+## 📜 License
+MIT © 2025 [Your Name]
