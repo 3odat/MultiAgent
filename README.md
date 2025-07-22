@@ -50,7 +50,7 @@ USER ➜ please count people and cars
 - Cars: 4 (by Drone 1)
 
 ```
-###  How to RUN?
+# How to RUN 🤖🤖🤖🤖🤖
 
 ## 1. Install dependencies
 ```text
@@ -70,8 +70,30 @@ python Agent_1.py
 
 ## Then type a prompt like:
 ```text
-please count peop
+please count people and cars
 ```
 
+
+## 🧰 Available Tools
+
+Each drone agent is equipped with tools. For example:
+```text
+Drone 1:
+
+    - connect
+    - arm
+    - takeoff
+    - count_cars
+    - send_peer_message
+
+Drone 2:
+
+    - connect
+    - arm
+    - takeoff
+    - count_people
+    - send_peer_message
+
+```
 
 
