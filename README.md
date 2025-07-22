@@ -25,7 +25,7 @@ Both drones use reasoning agents to interpret tasks, control physical systems, a
 ```text
      ┌──────────────────────────────┐       ┌──────────────────────────────┐
      │          Drone 1             │       │          Drone 2             │
-     │         (talk1.py)           │       │         (talk2.py)           │
+     │         (Agent_1.py)           │       │         (Agent_2.py)           │
      └────────────┬─────────────────┘       └────────────┬─────────────────┘
                   │                                          │
         ┌─────────▼─────────┐                      ┌────────▼──────────┐
