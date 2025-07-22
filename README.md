@@ -68,9 +68,10 @@ python Agent_2.py
 python Agent_1.py
 ```
 
-## 4. Start Agent 1 (Drone 1)
+## Then type a prompt like:
 ```text
-python Agent_1.py
+please count peop
 ```
+
 
 
