@@ -50,7 +50,7 @@ USER ➜ please count people and cars
 - Cars: 4 (by Drone 1)
 
 ```
-# Result of collaboration between drone 1 and drone 2 to accomplish a mission.
+#### Result of collaboration between drone 1 and drone 2 to accomplish a mission.
 ![MultiAgent Collaboration](images/1.png)  
 
 
