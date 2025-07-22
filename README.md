@@ -97,3 +97,16 @@ Drone 2:
 ```
 
 
+## 📂 File Structure
+```text
+├── talk1.py         # Drone 1 agent (LangGraph + MAVSDK + WS)
+├── talk2.py         # Drone 2 agent (LangGraph + MAVSDK + WS)
+├── requirements.txt # Dependencies
+└── README.md        # Project description
+```
+
+
+
+
+
+
