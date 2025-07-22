@@ -121,4 +121,4 @@ Drone 2:
 
 
 ## 📜 License
-MIT © 2025 [Your Name]
+MIT © 2025 [Ibrahim Odat]
