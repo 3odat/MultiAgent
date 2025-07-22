@@ -33,7 +33,7 @@ Both drones use reasoning agents to interpret tasks, control physical systems, a
         │ + GPT‑4o + Tools  │                      │ + GPT‑4o + Tools  │
         └─────────┬─────────┘                      └─────────┬─────────┘
                   │                                          │
-        ┌─────────▼──────────────────────────────────────────▼──────────┐
+        ┌─────────▼──────────────────────────────────────────▼─────────┐
         │        Bi-Directional WebSocket (JSON-based messaging)       │
         └──────────────────────────────────────────────────────────────┘
 
