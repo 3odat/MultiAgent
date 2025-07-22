@@ -28,7 +28,7 @@ Both drones use reasoning agents to interpret tasks, control physical systems, a
      │         (talk1.py)           │       │         (talk2.py)           │
      └────────────┬─────────────────┘       └────────────┬─────────────────┘
                   │                                          │
-        ┌─────────▼─────────┐                      ┌────────▼─────────┐
+        ┌─────────▼─────────┐                      ┌────────▼─────────-┐
         │ LangGraph ReAct   │                      │ LangGraph ReAct   │
         │ + GPT‑4o + Tools  │                      │ + GPT‑4o + Tools  │
         └─────────┬─────────┘                      └─────────┬─────────┘
