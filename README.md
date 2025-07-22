@@ -1,4 +1,4 @@
-## 🧠🛰️ Multi-Agent Autonomous Drones with LangGraph, MAVSDK & WebSockets
+### 🧠🛰️ Multi-Agent Autonomous Drones with LangGraph, MAVSDK & WebSockets
 
 Welcome to a real-time, LLM-powered **collaborative drone system** 🤝  
 This project demonstrates **autonomous coordination** between two UAV agents (Drone 1 & Drone 2), powered by:
