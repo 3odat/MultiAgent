@@ -48,3 +48,29 @@ USER ➜ please count people and cars
 ✅ Final Answer:
 - People: 7 (by Drone 2)
 - Cars: 4 (by Drone 1)
+
+```
+###  How to RUN?
+
+## 1. Install dependencies
+```text
+pip install -r requirements.txt
+```
+
+## 2. Start Agent 2 (Drone 2)
+```text
+python Agent_2.py
+```
+
+
+## 3. Start Agent 1 (Drone 1)
+```text
+python Agent_1.py
+```
+
+## 4. Start Agent 1 (Drone 1)
+```text
+python Agent_1.py
+```
+
+
